@@ -1,0 +1,646 @@
+{
+    "path": "./assets/aatrox.glb",
+    "animations": [
+        {
+            "animation": "aatrox_attack_into_run.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_attack1.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_attack3.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_channel.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_dance_loop.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_buffbones.anm",
+            "meshes": [
+                "Body"
+            ]
+        },
+        {
+            "animation": "aatrox_channel_windup.anm",
+            "meshes": [
+                "Wings",
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_crit.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_dance_windup.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_death.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_death_death_into_run.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_death_death_into_run1.anm",
+            "meshes": [
+                "Body"
+            ]
+        },
+        {
+            "animation": "aatrox_death_finisher4.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_death_idle.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_death_into_idle.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_death_into_passiveidle.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_death_into_passiverun.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_death_run.anm",
+            "meshes": [
+                "Body"
+            ]
+        },
+        {
+            "animation": "aatrox_ground_q1.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_ground_q1_into_idle.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_ground_q1_into_passiveidle.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_ground_q1_to_unsheathrun.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_ground_q2.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_ground_q2_to_idle.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_ground_q2_to_passiveidle.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_ground_q3.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_ground_q3_into_idle1.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_ground_q3_into_passiverun.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_ground_q3_into_run.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_idle_in_sheath.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_idle1.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_joke.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_laugh.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_passive_attack.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_passive_attack_out.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_passive_idle.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_passive_into_idle1.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_passive_into_shlth.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_passive_q1_into_run1.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_passive_q2_into_run.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_passive_run.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_q1_into_run.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_q2_into_run.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_recall.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_recall_winddown.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_resheath_fullbody.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_sheath_run_haste.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_sheath_run01.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_sheath_to_attack.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_skin01_recall.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_spell_dash_running.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_spell3_dash.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_spell3_dash_passive.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_spell3_dash_to_walk.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_spell3_passive.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_spell3_passive_to_run.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_spell3_to_walk.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_spell3_ult.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_spell3_unsheath.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_spell3_unsheath_to_idle.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_spell3_unsheath_to_run.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_spell4.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_stunned.anm",
+            "meshes": [
+                "Wings",
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_taunt.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_taunt_loop.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_towerattack.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_ult.anm",
+            "meshes": [
+                "Body"
+            ]
+        },
+        {
+            "animation": "aatrox_ult_attack1.anm",
+            "meshes": [
+                "Wings",
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_ult_attack2.anm",
+            "meshes": [
+                "Wings",
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_ult_idle.anm",
+            "meshes": [
+                "Wings",
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_ult_idlein.anm",
+            "meshes": [
+                "Wings",
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_ult_into.anm",
+            "meshes": [
+                "Wings",
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_ult_out.anm",
+            "meshes": [
+                "Wings",
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_ult_out_to_passive_idle.anm",
+            "meshes": [
+                "Wings",
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_ult_q1.anm",
+            "meshes": [
+                "Wings",
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_ult_q2.anm",
+            "meshes": [
+                "Wings",
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_ult_q3.anm",
+            "meshes": [
+                "Wings",
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_ult_run.anm",
+            "meshes": [
+                "Wings",
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_ult_spell_dash.anm",
+            "meshes": [
+                "Wings",
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_ult_spell_dash_to_run.anm",
+            "meshes": [
+                "Wings",
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_ult_taunt.anm",
+            "meshes": [
+                "Wings",
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_ult_taunt_loop.anm",
+            "meshes": [
+                "Wings",
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_ult_towerattack.anm",
+            "meshes": [
+                "Wings",
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_unsheath.anm",
+            "meshes": [
+                "Wings",
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_unsheath_idle1.anm",
+            "meshes": [
+                "Wings",
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_unsheath_run01.anm",
+            "meshes": [
+                "Wings",
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_unsheath_to_passive.anm",
+            "meshes": [
+                "Wings",
+                "Body",
+                "Sword"
+            ]
+        },
+        {
+            "animation": "aatrox_wings_null.anm",
+            "meshes": [
+                "Wings",
+                "Body"
+            ]
+        },
+        {
+            "animation": "idle_into_passive_run.anm",
+            "meshes": [
+                "Body",
+                "Sword"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "3d-model-demo",
+  "main": "main.js",
+  "devDependencies": {
+    "@types/node": "^22.15.2",
+    "@types/nw.js": "^0.92.0"
+  }
+}
