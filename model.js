@@ -48,7 +48,8 @@ function onLoad(model) {
     const size = box.getSize(new THREE.Vector3());  // 获取包围盒尺寸
     const scale = 1 / size.y;   // 标准化为1个单位高度的比例
     model.scene.scale.set(scale, scale, scale); // 等比例缩放
-    model.scene.position.y = -2;
+    model.scene.position.x = 0;
+    model.scene.position.y = 0;
 
     // 网格
     model.scene.traverse((child) => {

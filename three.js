@@ -12,7 +12,7 @@ const camera = new THREE.PerspectiveCamera(
     0.1, // near (最近视距)
     1000    // far (最远视距)
 );
-camera.position.set(1, 1, 1);
+camera.position.set(0.5, 0.7, 3);
 camera.lookAt(0, 0, 0);
 
 // 渲染器
@@ -56,7 +56,7 @@ scene.add(ambientLight);
 
 // 点光源
 const pointLight = new THREE.PointLight(0xffffff, 5);
-pointLight.position.set(0, 1, 1);
+pointLight.position.set(0, 1, 3);
 pointLight.castShadow = true;   // 投射阴影
 scene.add(pointLight);
 
@@ -66,7 +66,7 @@ const shadow = new THREE.Mesh(
     new THREE.ShadowMaterial({ opacity: 0.2 })  // 阴影材质
 );
 shadow.rotation.x = -Math.PI / 2;
-shadow.position.y = -2;
+shadow.position.y = 0;
 shadow.receiveShadow = true;    // 接受阴影
 scene.add(shadow);
 
